@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<a href="https://www.linkedin.com/in/vitorbarbosa66/">
+  <img alt="Vitor Barbosa" src="https://img.shields.io/badge/-Vitor%20Barbosa-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
 <!--
 **RAJ66/RAJ66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
